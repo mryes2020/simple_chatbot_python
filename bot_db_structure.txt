@@ -1,0 +1,10 @@
+version_1:
+	chatbot_db ( database ) :
+		- bot_information ( table ) : !!! notice that in this version it is not needed this table
+			- bot serial number ( Column: type string ) 
+			- bot first name ( Column: type string )
+			- bot last name ( Column: type string ) 
+			- bot age ( Column: type int)
+		- answers_questions ( table ) :
+			- answer ( Column: type string )
+			- question array ( Column: type string )
