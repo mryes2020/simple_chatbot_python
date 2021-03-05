@@ -1,5 +1,5 @@
 # Installation
-```git clone https://github.com/mryes2020/simple_chatbot_python```<br></br>
+```git clone https://github.com/mryes2020/simple_chatbot_python```<br>
 *then setup a sql database and enter your sql credentials in the bot.py file - line 16*<br></br>
 *then start the program and do some training first by choosing the option 1 and inserting a conversation example in there*<br></br>
 *example conversation is already in the training_/ folder !! make sure to use the same syntax when making your own conversation file*<br></br>
