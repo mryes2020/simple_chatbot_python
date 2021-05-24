@@ -14,3 +14,8 @@ The syntax is simple..<br>
 [answer from the person2]<br>
 tho there are not only 6 lines you can fit into that file, this was just an example..<br>
 the conversation file can have an unlimited (even of course) number of lines
+
+### Warning 
+If you have any questions or trouble in understanding the code you can shoot me a message on my instagram page or on my email, I should reply in 1-3 days.<br>
+ -> <a href="https://instagram.com/kevinj____">Instagram</a><br>
+ -> Email: kevin.jerebica@gmail.com<br>
